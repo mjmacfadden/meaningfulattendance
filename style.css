@@ -1,3 +1,29 @@
+body{
+    font-family:'Poppins', sans-serif;
+}
+.container {
+    max-width: 600px;
+}
 .logo{
     text-transform:uppercase;
+    font-size:20px;
+    font-weight:800;
+}
+.logo a{
+    color:#000;
+}
+a{
+    text-decoration: none;
+}
+.navigation{
+    border-bottom:1px solid #CCC;
+}
+#date{
+    font-size:24px;
+    font-weight:700;
+}
+#question{
+    font-size:28px;
+    font-weight:300;
+    color:#797979;
 }

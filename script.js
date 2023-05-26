@@ -84,6 +84,7 @@ var data = [
     ["2/26", "If you could meet any historical figure, who would you choose and why?"],
     ["2/27", "Are you more productive in the early morning, late at night, or during the day?"],
     ["2/28", "Do you have any favorite card games or board games that you enjoy playing with friends?"],
+    ["2/29", "If you are born on February 29th, would you tell people you are one quarter your actual age?"],
     ["3/1", "What is your favorite type of cuisine or dish from a different culture or country?"],
     ["3/2", "Are you a dog person, a cat person, or do you have a fondness for other animals?"],
     ["3/3", "How do you like to unwind and relax after a busy day or week?"],
