@@ -310,7 +310,7 @@ var data = [
     ["10/9", "Do you have any creative hobbies or artistic pursuits that allow you to express yourself?"],
     ["10/10", "What forms of art or artistic expression inspire you or have a profound impact on you?"],
     ["10/11", "Are there any books or authors that have significantly influenced your perspective on life?"],
-    ["10/12", "If you had the opportunity to live in any country, where would you choose and why?"],
+    ["10/12", "What's your go to vending machine purchase?"],
     ["10/13", "What is your favorite type of cuisine to cook or experiment with in the kitchen?"],
     ["10/14", "Do you have any favorite movies from your childhood that still hold a special place in your heart?"],
     ["10/15", "What is one quality or trait that you appreciate the most in others?"],
