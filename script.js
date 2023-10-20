@@ -318,35 +318,35 @@ var data = [
     ["10/17", "What is your favorite type of weather or atmospheric condition?"],
     ["10/18", "Do you have any favorite quotes or sayings that resonate with you?"],
     ["10/19", "What is your favorite type of cuisine or dish from a specific culture or country?"],
-    ["10/20", "Are there any TV shows or series that you believe everyone should watch at least once?"],
+    ["10/20", "If you could have a non-domesticated pet, what would it be?", "-Mrs. M."],
     ["10/21", "If you could learn any musical instrument, which one would you choose and why?"],
-    ["10/22", "What is your favorite type of workout or fitness routine to stay active and healthy?"],
-    ["10/23", "What is your favorite type of outdoor activity or adventure?"],
-    ["10/24", "Do you have any favorite hobbies or interests related to arts and crafts?"],
-    ["10/25", "What is your go-to comfort food or guilty pleasure snack?"],
-    ["10/26", "Are there any TV shows or series that you enjoy watching regularly?"],
-    ["10/27", "What is your preferred genre of music or any favorite songs or artists?"],
-    ["10/28", "Do you possess any unique or interesting talents that others might find intriguing?"],
-    ["10/29", "If you could travel to any fictional world, which one would you choose and why?"],
+    ["10/22", "How do you like to unwind and recharge after a long and hectic day?"],
+    ["10/23", "What is your favorite thing to do on a rainy day?", "-Mrs. M."],
+    ["10/24", "What is one of your favorite stores?", "-Mrs. M."],
+    ["10/25", "What is your favorite candy?", "-Mrs. M."],
+    ["10/26", "What is your favorite sports team?", "-Andrew"],
+    ["10/27", "If you could name a planet, what would you name it?", "-Maxwell"],
+    ["10/28", "Are there any TV shows or series that you consider underrated and worth watching?"],
+    ["10/29", "What is your preferred music genre or any favorite songs that hold sentimental value?"],
     ["10/30", "Are you more productive in the mornings, afternoons, or evenings?"],
-    ["10/31", "Do you have any favorite board games or card games to play with friends or family?"],
-    ["11/1", "What is your favorite type of cuisine or dish to enjoy when dining out?"],
-    ["11/2", "Are you a dog person, a cat person, or do you have a fondness for other pets?"],
-    ["11/3", "How do you like to relax and unwind after a busy day or week?"],
-    ["11/4", "Are there any sports or athletic activities that you enjoy participating in?"],
-    ["11/5", "What is your preferred movie genre or any favorite films that you cherish?"],
-    ["11/6", "Would you consider yourself more introverted or extroverted in nature?"],
-    ["11/7", "Which season of the year do you look forward to the most, and why?"],
-    ["11/8", "Do you have any creative hobbies or artistic pursuits that you enjoy?"],
-    ["11/9", "What forms of art or artistic expression do you find most captivating or inspiring?"],
-    ["11/10", "Are there any books or authors that have had a profound impact on you?"],
+    ["10/31", "If you could be any type of food, what would you be?","-Layth"],
+    ["11/1", "What is your favorite fruit or vegetable?", "-Ben R."],
+    ["11/2", "What is one item that you think won’t exist in the future?", "-Katherine"],
+    ["11/3", "What is your favorite type of sweet or pastry?"],
+    ["11/4", "Do you have any favorite movies from your childhood that still hold a special place in your heart?"],
+    ["11/5", "What is one quality or trait that you appreciate the most in others?"],
+    ["11/6", "If you could be any animal, what animal would you be?", "-Cecilia"],
+    ["11/7", "Who is your favorite rapper?", "-Jackson"],
+    ["11/8", "Do you have a lucky number? If so, what is it?", "-Mrs. M."],
+    ["11/9", "What is your main reason for coming to school?", "-Elinor"],
+    ["11/10", "If you could travel to any fictional world, which one would you choose and why?"],
     ["11/11", "If you could live anywhere in the world, where would you choose and why?"],
     ["11/12", "What is your favorite type of cuisine or dish to cook at home?"],
-    ["11/13", "Do you have any favorite movies from your childhood that still hold a special place in your heart?"],
-    ["11/14", "What is one quality or trait that you appreciate the most in others?"],
+    ["11/13", "What noodle best represents your personality?", "-Amanda"],
+    ["11/14", "What is the #1 thing on your wishlist?", "-Amanda"],
     ["11/15", "If you could have any superpower, what would it be and why?"],
-    ["11/16", "What is your favorite type of weather or atmospheric condition?"],
-    ["11/17", "Do you have any favorite quotes or sayings that inspire you?"],
+    ["11/16", "If you could be 1 in tall or 10 feet tall, what would you be?", "-Adri"],
+    ["11/17", "If you were a shoe, what shoe would you be?", "-Nikolai"],
     ["11/18", "What is your favorite type of cuisine or dish from a specific culture or country?"],
     ["11/19", "Are there any TV shows or series that you believe everyone should watch at least once?"],
     ["11/20", "If you could learn to play any musical instrument, which one would you choose and why?"],
@@ -356,21 +356,21 @@ var data = [
     ["11/24", "What is your go-to comfort food or ultimate guilty pleasure snack?"],
     ["11/25", "Are there any TV shows or series that you consider binge-worthy and highly recommend?"],
     ["11/26", "What is your preferred music genre or any favorite songs that always get you in the mood?"],
-    ["11/27", "Do you possess any unique or quirky talents that often surprise people?"],
+    ["11/27", "Would you rather ride in a car or airplane to get somewhere? Why?", "-Tess"],
     ["11/28", "If you could have a dinner with any historical figure, who would you choose and why?"],
-    ["11/29", "Are you more of a morning person, night owl, or do you thrive during the afternoon?"],
-    ["11/30", "Do you have any favorite card games or board games that you enjoy playing with others?"],
-    ["12/1", "What is your favorite type of cuisine or dish to experience when traveling?"],
+    ["11/29", "What is your favorite book genre?", "-Tess"],
+    ["11/30", "What item would you bring back from the past?", "-Elinor"],
+    ["12/1", "What is your go-to sport to watch?"],
     ["12/2", "Are you more drawn to dogs, cats, or do you prefer the company of other animals?"],
     ["12/3", "How do you like to unwind and recharge after a long and hectic day?"],
-    ["12/4", "Are there any sports or athletic events that you find exciting to watch or follow?"],
-    ["12/5", "What is your preferred movie genre or any favorite films that you can watch repeatedly?"],
-    ["12/6", "Would you describe yourself as an introvert, an extrovert, or an ambivert?"],
-    ["12/7", "Which season of the year fills you with the most joy and why?"],
-    ["12/8", "Do you have any creative hobbies or artistic endeavors that you enjoy pursuing?"],
+    ["12/4", "If you could only use one form of social media for the rest of your life, what would it be?", "-Hudson I."],
+    ["12/5", "What is the best pet, in your opinion?", "-Devyan"],
+    ["12/6", "Would you rather be a famous actor or famous athlete?", "-Nikolai"],
+    ["12/7", "What is your favorite coffee shop (Starbucks, Dunkin Donuts, etc.)?", "-Nora"],
+    ["12/8", "What type of cookie most represents your personality?", "-Jonah"],
     ["12/9", "What forms of art or artistic expression do you find particularly captivating or inspiring?"],
     ["12/10", "Are there any books or authors that have profoundly influenced your perspective on life?"],
-    ["12/11", "If you could live in any country other than your own, where would you choose and why?"],
+    ["12/11", "If you had 24 hours to live and could choose anything to do, what would it be?", "-Jonah"],
     ["12/12", "What is your favorite type of cuisine or dish to cook and share with others?"],
     ["12/13", "Do you have any favorite animated movies or TV shows that you still enjoy as an adult?"],
     ["12/14", "What is one quality or trait in a person that you value the most?"],
@@ -396,19 +396,23 @@ var data = [
 
 // Find the matching string
 var matchingString = "No matching string found.";
+var creditTo = "foo";
 
 for (var i = 0; i < data.length; i++) {
-  var [date, string] = data[i];
+  var [date, string, credit] = data[i];
 
   if (date === formattedDate) {
     matchingString = string;
+    creditTo = credit;
     break;
   }
   console.log(string);
+  console.log(credit);
 }
 
 // Display the matching string in the element with the ID "question"
 document.getElementById("question").textContent = matchingString;
+document.getElementById("element-id").textContent = creditTo;
 
 
 //TRY ANOTHER
@@ -417,7 +421,7 @@ function tryAnother() {
     var randomData = data[Math.floor(Math.random() * data.length)];
   
     // Get the random date and question
-    var [date, question] = randomData;
+    var [date, question, credit] = randomData;
   
     // Pad the month and day with preceding zeros if necessary
     var [month, day] = date.split('/');
@@ -425,11 +429,10 @@ function tryAnother() {
     var formattedDay = day.padStart(2, '0');
     var randomDate = formattedMonth + formattedDay;
     
-    // Display the random date in the element with the ID "date"
-    //document.getElementById("date").textContent = randomDate;
   
     // Display the random question in the element with the ID "question"
     document.getElementById("question").textContent = question;
+    document.getElementById("element-id").textContent = credit;
   
     // Update the URL with the date parameter
     var urlParams = new URLSearchParams(window.location.search);
@@ -462,18 +465,20 @@ function tryAnother() {
   
     // Find the matching question
     var matchingQuestion = "No matching question found.";
-  
+    var otherCredit = "Foo"
     for (var i = 0; i < data.length; i++) {
-      var [date, question] = data[i];
+      var [date, question, credit] = data[i];
   
       if (date === formattedDateParam) {
         matchingQuestion = question;
+        otherCredit = credit;
         break;
       }
     }
   
     // Display the matching question in the element with the ID "question"
     document.getElementById("question").textContent = matchingQuestion;
+    document.getElementById("element-id").textContent = otherCredit;
   }
   
   

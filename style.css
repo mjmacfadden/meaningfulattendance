@@ -27,3 +27,23 @@ a{
     font-weight:300;
     color:#797979;
 }
+#element-id{
+    text-align: right;
+    padding-top:30px;
+    color:#797979;
+    position:relative;
+}
+/*
+#element-id:hover:after {
+    position:absolute;
+    content:'Question Credit';
+    bottom:25px;
+    right:0;
+    padding:3px 5px;
+    border-radius:5px;
+    display:inline-block;
+    background-color:rgb(190, 190, 190);
+    color:white;
+    font-size:10px;
+}
+*/
