@@ -371,7 +371,7 @@ var data = [
     ["12/9", "What forms of art or artistic expression do you find particularly captivating or inspiring?"],
     ["12/10", "Are there any books or authors that have profoundly influenced your perspective on life?"],
     ["12/11", "If you had 24 hours to live and could choose anything to do, what would it be?", "-Jonah"],
-    ["12/12", "What is your favorite type of cuisine or dish to cook and share with others?"],
+    ["12/12", "If you could only eat one food for the rest of your life, what would it be?", "Evie"],
     ["12/13", "Do you have any favorite animated movies or TV shows that you still enjoy as an adult?"],
     ["12/14", "What is one quality or trait in a person that you value the most?"],
     ["12/15", "If you could possess any superpower, what would it be and how would you use it?"],
