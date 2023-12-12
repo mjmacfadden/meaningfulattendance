@@ -371,7 +371,7 @@ var data = [
     ["12/9", "What forms of art or artistic expression do you find particularly captivating or inspiring?"],
     ["12/10", "Are there any books or authors that have profoundly influenced your perspective on life?"],
     ["12/11", "If you had 24 hours to live and could choose anything to do, what would it be?", "-Jonah"],
-    ["12/12", "Are there any TV shows or series that you believe have made a significant impact on society?"],
+    ["12/12", "Spaghetti or tacos?"],
     ["12/13", "What is your dream car?", "-Alex"],
     ["12/14", "What is your dream job?", "-Grant"],
     ["12/15", "If you could be a celebrity for the day, who would it be? Why?", "-Simone"],
