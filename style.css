@@ -33,6 +33,15 @@ a{
     color:#797979;
     position:relative;
 }
+.share{
+    border:1px solid #000;
+    background-color:#fff;
+}
+.share:hover{
+    border:1px solid #000;
+    background: #f1f1f1;
+}
+
 /*
 #element-id:hover:after {
     position:absolute;
