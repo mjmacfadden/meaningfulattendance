@@ -489,3 +489,28 @@ function tryAnother() {
     displayQuestionFromURL();
   };
   
+
+
+  //SHARE
+  function share() {
+    // Copy the current page's URL to the clipboard
+    const url = window.location.href;
+
+    // Use the Clipboard API to copy the URL
+    navigator.clipboard.writeText(url).then(() => {
+      // Display a success message after copying
+      const messageElement = document.getElementById("message");
+      messageElement.innerText = "URL Copied!";
+      messageElement.style.display = "block";
+
+      // Set a timeout to clear the message after 2 seconds (2000 milliseconds)
+      setTimeout(() => {
+        messageElement.innerText = "";
+        messageElement.style.display = "none";
+      }, 2000);
+
+    }).catch(err => {
+      // Handle any errors
+      console.error('Failed to copy: ', err);
+    });
+  }
