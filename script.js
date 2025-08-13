@@ -539,31 +539,24 @@ function tryAnother() {
 
   //SHARE
   function share() {
+    // Copy the current page's URL to the clipboard
     const url = window.location.href;
-    // Detect mobile device
-    const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
-    if (isMobile && navigator.share) {
-      navigator.share({
-        title: document.title,
-        url: url
-      }).catch((err) => {
-        // Fallback to clipboard if sharing fails
-        navigator.clipboard.writeText(url);
-      });
-    } else {
-      // Use the Clipboard API to copy the URL
-      navigator.clipboard.writeText(url).then(() => {
-        // Display a success message after copying
-        const messageElement = document.getElementById("message");
-        messageElement.innerText = "URL Copied!";
-        messageElement.style.display = "block";
-        setTimeout(() => {
-          messageElement.innerText = "";
-          messageElement.style.display = "none";
-        }, 2000);
-      }).catch(err => {
-        // Handle any errors
-        console.error('Failed to copy: ', err);
-      });
-    }
+
+    // Use the Clipboard API to copy the URL
+    navigator.clipboard.writeText(url).then(() => {
+      // Display a success message after copying
+      const messageElement = document.getElementById("message");
+      messageElement.innerText = "URL Copied!";
+      messageElement.style.display = "block";
+
+      // Set a timeout to clear the message after 2 seconds (2000 milliseconds)
+      setTimeout(() => {
+        messageElement.innerText = "";
+        messageElement.style.display = "none";
+      }, 2000);
+
+    }).catch(err => {
+      // Handle any errors
+      console.error('Failed to copy: ', err);
+    });
   }
